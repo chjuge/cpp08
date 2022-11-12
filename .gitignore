@@ -1,0 +1,5 @@
+easyfind
+*.o
+span
+mutant
+.vscode
